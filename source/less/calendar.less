@@ -54,6 +54,7 @@
   width: 9px;
   height: 18px;
   opacity: 0.3;
+  transition: opacity 0.2s ease-in-out;
 
   @media (min-width: @tablet-width) {
     width: 19px;
@@ -63,6 +64,14 @@
   @media (min-width: @desktop-width) {
     width: 16px;
     height: 28px;
+  }
+
+  &:hover {
+    opacity: 0.5;
+  }
+
+  &:active {
+    opacity: 0.1;
   }
 }
 

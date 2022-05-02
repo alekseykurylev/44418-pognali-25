@@ -5,13 +5,23 @@
   width: 40px;
   height: 40px;
   border-radius: 50%;
+  transition: 0.2s ease-in-out;
+  transition-property: background-color, opacity;
 
   &--orange {
     background-color: #ff8d30;
+
+    &:hover {
+      background-color: #F26926;
+    }
   }
 
   &--yellow {
     background-color: #ffbd30;
+
+    &:hover {
+      background-color: #FF8D30;
+    }
   }
 
   @media (min-width: @tablet-width) {
@@ -32,4 +42,10 @@
 .icon-button__icon--mail {
   width: 17px;
   height: 14px;
+}
+
+.icon-button:active {
+  .icon-button__icon {
+    opacity: 0.3;
+  }
 }

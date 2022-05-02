@@ -12,6 +12,15 @@
   justify-content: space-between;
   align-items: center;
   text-decoration: none;
+  transition: opacity 0.2s ease-in-out;
+
+  &:hover {
+    opacity: 0.6;
+  }
+
+  &:active {
+    opacity: 0.3;
+  }
 
   @media (min-width: @tablet-width) {
     justify-content: end;

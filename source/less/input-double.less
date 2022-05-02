@@ -17,6 +17,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    z-index: 1;
   }
 
   &::after {
@@ -28,6 +29,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    z-index: 1;
 
     @media (min-width: @tablet-width) {
       width: 20px;
@@ -51,6 +53,8 @@
 
   &:focus {
     outline: none;
+    border-color: #161C35;
+    z-index: 0;
   }
 
   &--min {

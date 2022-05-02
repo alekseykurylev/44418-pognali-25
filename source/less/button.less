@@ -13,7 +13,7 @@
   transition: 0.2s ease-in-out;
   transition-property: color, background-color, border-color, opacity, fill;
 
-  &:disabled {
+  &:active {
     .button__text,
     .button__icon {
       opacity: 0.3;
@@ -81,8 +81,8 @@
     background-color: #ffbd30;
   }
 
-  &:disabled {
-    background-color: #ffbd30;
+  &:active {
+    color: rgba(22, 28, 53, 0.3);
   }
 }
 
