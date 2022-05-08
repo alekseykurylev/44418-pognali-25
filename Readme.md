@@ -1,4 +1,4 @@
-<img width="600" alt="Сертификат" src="https://github.com/alekseykurylev/44418-pognali-25/blob/master/certificate.jpg">
+<img width="400" alt="Сертификат" src="https://github.com/alekseykurylev/44418-pognali-25/blob/master/certificate.jpg">
 
 # Личный проект «Погнали»
 
