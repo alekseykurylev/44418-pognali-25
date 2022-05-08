@@ -1,4 +1,4 @@
-Успешная защита проекта 7 мая 2022 года.
+Успешная защита проекта 7 мая 2022 г.
 
 <img width="400" alt="Сертификат" src="https://raw.githubusercontent.com/alekseykurylev/44418-pognali-25/master/certificate.jpg">
 
