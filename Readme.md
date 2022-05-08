@@ -1,3 +1,5 @@
+<img width="800" alt="" src="https://github.com/alekseykurylev/44418-pognali-25/blob/master/certificate.jpg">
+
 # Личный проект «Погнали»
 
 * Студент: [Алексей Курылёв](https://up.htmlacademy.ru/adaptive/25/user/44418).
