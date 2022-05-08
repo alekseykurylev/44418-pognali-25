@@ -1,4 +1,4 @@
-[Открыть проект](https://htmlacademy-adaptive.github.io/44418-pognali-25/12/)
+[Открыть проект](https://htmlacademy-adaptive.github.io/44418-pognali-25/)
 
 <img width="400" alt="Сертификат" src="https://raw.githubusercontent.com/alekseykurylev/44418-pognali-25/master/certificate.jpg">
 
