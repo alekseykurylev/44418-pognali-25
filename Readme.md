@@ -1,5 +1,3 @@
-[Открыть проект](https://alekseykurylev.github.io/44418-pognali-25/)
-
 <img width="400" alt="Сертификат" src="https://raw.githubusercontent.com/alekseykurylev/44418-pognali-25/master/certificate.jpg">
 
 # Личный проект «Погнали»
